@@ -8,8 +8,8 @@ Changelog for package urg_c
 * Adding new maintainer.
 * Contributors: Tony Baltovski, knickels
 
-Forthcoming
------------
+1.1.0 (2023-02-22)
+------------------
 * Bumped CMake version to avoid author warning.
 * 1.0.405
 * Changes.
