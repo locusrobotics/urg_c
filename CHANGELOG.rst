@@ -8,6 +8,20 @@ Changelog for package urg_c
 * Adding new maintainer.
 * Contributors: Tony Baltovski, knickels
 
+Forthcoming
+-----------
+* Bumped CMake version to avoid author warning.
+* 1.0.405
+* Changes.
+* pass *pointer to* system timestamp, sync issue on quit
+  * pass *pointer to* system timestamp
+  * If is_sending==FALSE, the response to QT is never consumed.
+  * pass *pointer to* system timestamp
+  * Add check to ensure that the sensor is a UXM-30LX (doesn't work on URG-04LX)
+  * pass *system_time_stamp instead of system_time_stamp
+* Adding new maintainer.
+* Contributors: Tony Baltovski, knickels
+
 1.0.404 (2014-04-28)
 --------------------
 * Merge pull request `#2 <https://github.com/ros-drivers/urg_c/issues/2>`_ from dawonn/master
