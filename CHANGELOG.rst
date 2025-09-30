@@ -38,8 +38,8 @@ Changelog for package urg_c
 * Adding new maintainer.
 * Contributors: Gary Servin, Tony Baltovski, knickels
 
-Forthcoming
------------
+1.8.0 (2025-09-30)
+------------------
 
 1.7.0 (2025-06-06)
 ------------------
