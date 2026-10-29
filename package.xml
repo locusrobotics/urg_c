@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
-<package>
+<package format="2">
   <name>urg_c</name>
   <version>1.10.0</version><!-- Format is urg three digit dot, followed by ROS two digit update.  Example 1.0.4 becomes 1.0.400 -->
   <description>The urg_c package</description>
 
+  <maintainer email="mfergs7@gmail.com">Michael Ferguson</maintainer>
   <maintainer email="chadrockey@gmail.com">Chad Rockey</maintainer>
   <maintainer email="tony.baltovski@gmail.com">Tony Baltovski</maintainer>
 
@@ -17,8 +18,9 @@
   <author>Katsumi Kimoto</author>
   <author>Adrian Boeing</author>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
 
   <export>
+    <build_type>ament_cmake</build_type>
   </export>
 </package>

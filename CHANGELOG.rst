@@ -2,6 +2,16 @@
 Changelog for package urg_c
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.4001 (2020-06-10)
+---------------------
+* add maintainer for ros2 (`#13 <https://github.com/ros-drivers/urg_c/issues/13>`_)
+* Contributors: Michael Ferguson
+
+1.0.4000 (2020-03-17)
+---------------------
+* migrate ros2 devel (`#11 <https://github.com/ros-drivers/urg_c/issues/11>`_)
+* Contributors: Karsten Knese, Brett, Marc-Antoine Testier, Chris Lalancette
+
 1.0.405 (2018-08-07)
 --------------------
 * pass *pointer to* system timestamp, sync issue on quit
